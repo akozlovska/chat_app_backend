@@ -27,4 +27,4 @@ To run this application locally, follow these steps:
 3. Add the .env file according to the provided .env.sample file with personal credentials and client host.
 4. Run the setup.js file in order to synchronize the database.
 5. Run the index.js file in order to start the server.
-6. Once the server is running, you can test the endpoints using tools like Postman or by integrating with a [frontend application](https://github.com/akozlovska/react_chat-app).
+6. Once the server is running, you can test the endpoints using tools like Postman or by integrating with a [frontend application](https://github.com/akozlovska/chat_app_frontend).
